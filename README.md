@@ -31,4 +31,4 @@ The generation of caves.
 
 /!\ Warning : This is not a fully functional game. The purpose of the project was only to train me in Java programming and game engine related functionalities.
 
-For more informations, please contact me at romain.cortale@gmail.com
+Feel free to contact me at romain.cortale@gmail.com
